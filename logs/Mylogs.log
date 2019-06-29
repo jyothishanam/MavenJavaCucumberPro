@@ -1,0 +1,11 @@
+[INFO ] 2019-03-19 20:13:14.934 [main] StepDefinition1 - THis is From StepDefinitions
+[INFO ] 2019-03-19 20:13:59.575 [main] StepDefinition1 - Elements Initialization
+[INFO ] 2019-03-19 20:14:18.361 [main] StepDefinition1 - Navigate to the website
+[INFO ] 2019-03-21 09:11:32.555 [main] StepDefinition1 - THis is From StepDefinitions
+[DEBUG] 2019-03-21 09:11:32.586 [main] StepDefinition1 - Debugging information
+[ERROR] 2019-03-21 09:11:32.586 [main] StepDefinition1 - error message
+[INFO ] 2019-03-21 09:12:16.902 [main] StepDefinition1 - Elements Initialization
+[INFO ] 2019-03-21 09:12:26.585 [main] StepDefinition1 - Navigate to the website
+[INFO ] 2019-03-21 09:12:27.488 [main] StepDefinition1 - Website should be loaded
+[INFO ] 2019-03-21 09:12:27.551 [main] StepDefinition1 - Validating Page title
+[INFO ] 2019-03-21 09:12:36.993 [main] StepDefinition1 - Browser Shutdown

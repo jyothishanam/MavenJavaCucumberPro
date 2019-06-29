@@ -6,7 +6,13 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(plugin= {"json:target/cucumber-reports/report.json","html:target/cucumber-reports"},glue="MySteps",features="src/test/resources/Features")
+@CucumberOptions(
+		plugin= {"json:target/cucumber-reports/report.json","html:target/cucumber-reports"},
+		glue="MySteps",
+		features="src/test/resources/Features",
+		tags= {"@LogTest"},
+		monochrome=true
+		)
 public class RunnerClassTest {
 
 }
