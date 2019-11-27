@@ -16,7 +16,7 @@ Feature: Automated End to End Tests
     And Accepts TC and Clicks on Proceed to checkout in shipping page
     And Choose the payment method option PayByCheck
     And Confirms the order
-    Then confirmation information should be displayed
+    Then confirmation information should be displayed 
 
     Examples: 
       | EmailAddress        | Password   |
